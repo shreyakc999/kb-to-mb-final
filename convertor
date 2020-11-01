@@ -1,0 +1,5 @@
+
+var inmb={converter:function(kb){
+    return mb=kb/1024;
+}};
+ module.exports = inmb;
